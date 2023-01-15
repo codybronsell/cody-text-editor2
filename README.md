@@ -30,7 +30,7 @@ This program can be run through a browser using the link to the the deployed app
 
 Use the deployed URL to open the deployed application. 
 
-![CODYJATE]([https://github.com/codybronsell/cody-text-editor2/screenshot.png](https://github.com/codybronsell/cody-text-editor2/blob/main/screenshot.png))
+![CODYJATE]([https://github.com/codybronsell/cody-text-editor2/blob/main/screenshot.png])
 
 Type any code snippet or notes in the editor. The content will be saved in the IndexedDB when the window is unfocused. When you reopen the text editor after closing it, the content in the text editor will be retrieved from the IndexedDB. 
 
