@@ -2,7 +2,7 @@
   "name": "CODYJATE",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "webpack-dev-server",
+    "build": "webpack --mode production",
     "start": "webpack --watch"
   },
   "author": "CodyBronsell",
